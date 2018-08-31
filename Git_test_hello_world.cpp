@@ -8,5 +8,6 @@
 int main()
 {
     std::cout << "Hello git" << std::endl;
+    std::cout << "why u no update" << std::endl;
     return 0;
 }
